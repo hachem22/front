@@ -1,0 +1,12 @@
+img {
+  height: 100vh;
+}
+
+.carousel-caption h3,
+.carousel-caption p {
+    color: rgb(6, 6, 6); /* Changez la couleur selon votre préférence */
+}
+.content {
+  margin-top: 56px; /* Ajustez la marge supérieure du contenu pour éviter que le contenu ne soit caché sous la barre de navigation fixe */
+  /* Vous pouvez ajuster cette valeur en fonction de la hauteur de votre barre de navigation */
+}

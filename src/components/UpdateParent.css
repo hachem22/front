@@ -1,0 +1,54 @@
+/* UpdateParent.css */
+
+.update-parent-container {
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-top:6%;
+  }
+  
+  .update-parent-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .update-parent-form .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .update-parent-form label {
+    width: 150px; /* Largeur fixe pour les étiquettes */
+    margin-right: 20px; /* Marge à droite pour séparer les étiquettes des champs */
+    font-weight: bold;
+  }
+  
+  .update-parent-form input[type="text"],
+  .update-parent-form input[type="number"],
+  .update-parent-form input[type="email"] {
+    flex: 1; /* Pour que les champs de formulaire occupent tout l'espace disponible */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .update-parent-form .btn-update {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .update-parent-form .btn-update:hover {
+    background-color: #0056b3;
+  }
+  

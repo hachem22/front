@@ -1,0 +1,16 @@
+.nav-link-with-icon .icon {
+    width: 10px; /* Ajustez la taille selon vos besoins */
+    height: auto; /* Permet de maintenir les proportions */
+  }
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Assurez-vous que la barre de navigation reste au-dessus du contenu */
+  }
+  
+  .content {
+    margin-top: 100px; /* Ajustez la marge supérieure du contenu pour éviter que le contenu ne soit caché sous la barre de navigation fixe */
+    /* Vous pouvez ajuster cette valeur en fonction de la hauteur de votre barre de navigation */
+  }
+  

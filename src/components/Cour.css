@@ -1,0 +1,9 @@
+.scrolling-cards {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .scrolling-cards .card {
+    display: inline-block;
+    margin-right: 10px;
+  }

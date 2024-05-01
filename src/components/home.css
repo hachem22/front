@@ -1,0 +1,6 @@
+.image-rotation {
+    transform: rotate(-30deg);
+}
+.image-rotationn{
+    transform:rotate(30deg)
+}

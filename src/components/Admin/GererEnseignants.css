@@ -1,0 +1,59 @@
+/* Style pour la barre de navigation */
+.Navbarr {
+    margin-bottom: 20px;
+  }
+  
+  /* Style pour les boutons de navigation */
+  .Navbarr .btn {
+    border-radius: 14px;
+    margin-left: 10px;
+    padding: 10px 20px;
+  }
+  
+  /* Style pour le titre de la page */
+  h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style pour le bouton d'ajout d'enseignant */
+  .add-button {
+    background-color: LimeGreen;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    margin-right: 10px;
+  }
+  
+  /* Style pour la table des enseignants */
+  .table-container {
+    margin-bottom: 40px;
+  }
+  
+  /* Style pour les boutons d'action dans la table */
+  .action-buttons button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 8px;
+  }
+  
+  /* Style pour les modals */
+  .modal-header {
+    background-color: #f8f9fa;
+    border-bottom: none;
+  }
+  
+  .modal-title {
+    color: #333;
+  }
+  
+  .modal-body {
+    padding: 20px;
+  }
+  
+  .modal-footer {
+    border-top: none;
+  }
+  
+  /* Style spécifique pour chaque modal si nécessaire */
+  

@@ -1,0 +1,17 @@
+@keyframes convergeImage {
+    0% { transform: perspective(500px) translateZ(0); }
+    100% { transform: perspective(500px) translateZ(45px); }
+  }
+  
+  .login-page-mobile-img img {
+    animation: convergeImage 1s linear forwards;
+  }
+  .name-field{
+    display: flex;
+    
+
+  }
+  label{
+    border-radius: 50px;
+  }
+ 

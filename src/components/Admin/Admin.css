@@ -1,0 +1,18 @@
+/* Admin.css */
+.Navbarr {
+    height: 100vh; /* Pour occuper toute la hauteur de la fenêtre */
+  }
+  
+  .navbar-vertical {
+    width: 210px; /* Largeur de la barre de navigation verticale */
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0; /* Pour étendre la barre de navigation jusqu'au bas */
+    z-index: 1000; /* Pour s'assurer que la barre de navigation est au-dessus du contenu */
+  }
+  
+  .nav-link {
+    padding: 10px 20px; /* Ajustez le rembourrage selon vos besoins */
+  }
+  
